@@ -1,0 +1,6 @@
+C:\Users\Heliton\Source\Repos\TipoCombustivel\bin\Debug\TipoCombustivel.exe.config
+C:\Users\Heliton\Source\Repos\TipoCombustivel\bin\Debug\TipoCombustivel.exe
+C:\Users\Heliton\Source\Repos\TipoCombustivel\bin\Debug\TipoCombustivel.pdb
+C:\Users\Heliton\Source\Repos\TipoCombustivel\obj\Debug\TipoCombustivel.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\TipoCombustivel\obj\Debug\TipoCombustivel.exe
+C:\Users\Heliton\Source\Repos\TipoCombustivel\obj\Debug\TipoCombustivel.pdb
